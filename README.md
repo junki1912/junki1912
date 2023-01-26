@@ -19,3 +19,5 @@
 <h3>🤟🏻 Boj.kr 🤟🏻</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
+
+<h6>프로필 생성 중...</h6>
