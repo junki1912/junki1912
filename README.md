@@ -17,13 +17,4 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
- <h4>5tuding..</h4>
-  
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-  
-<br>
-<h3>🤟🏻 Boj.kr 🤟🏻</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
-
 <h6>프로필 생성 중...</h6>
