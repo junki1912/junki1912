@@ -19,7 +19,7 @@
 <br><br>
 <!-- START_SECTION:waka-->
 <!-- END_SECTION:waka-->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junki1912&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![junki's wakatime stats][wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junki1912&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
