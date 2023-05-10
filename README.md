@@ -21,6 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junki1912)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
 
 <h6>프로필 생성 중...</h6>
