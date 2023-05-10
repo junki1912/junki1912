@@ -16,4 +16,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h6>프로필 생성 중...</h6>
