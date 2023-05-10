@@ -17,7 +17,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 <br><br>
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junki1912)
+<!-- START_SECTION:waka-->
+<!-- END_SECTION:waka-->
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junki1912&layout=compact&count_private=true)
 
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
