@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junki1912)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junki1912)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
 
