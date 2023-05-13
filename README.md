@@ -22,6 +22,6 @@
 [![junki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junki1912&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
 
 <h6>프로필 생성 중...</h6>
