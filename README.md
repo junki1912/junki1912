@@ -1,6 +1,9 @@
 <div align="center"> <H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1><H3>✔ Tech Stacks ✔</H3>
 
 <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
+
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
 
 <h4>Languages</h4>
@@ -21,13 +24,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
-
 <br>
 <!-- START_SECTION:waka-->
 <!-- END_SECTION:waka-->
 
-<br>
 
-<h6>프로필 생성 중...</h6>
