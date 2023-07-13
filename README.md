@@ -1,4 +1,8 @@
 <div align="center"> <H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1><H3>✔ Tech Stacks ✔</H3>
+
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
+
 <h4>Languages</h4>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -24,7 +28,5 @@
 <!-- START_SECTION:waka-->
 <!-- END_SECTION:waka-->
 
-<br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
+<br>
 
-<h6>프로필 생성 중...</h6>
