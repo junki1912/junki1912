@@ -21,6 +21,6 @@
 <!-- END_SECTION:waka-->
 
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912&hide=stars,commits,prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
 
 <h6>프로필 생성 중...</h6>
