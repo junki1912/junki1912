@@ -1,10 +1,8 @@
 <div align="center"> <H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1><H3>✔ Tech Stacks ✔</H3>
 
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
 
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
+
 
 <h4>Languages</h4>
 
@@ -28,4 +26,5 @@
 <!-- START_SECTION:waka-->
 <!-- END_SECTION:waka-->
 
-
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junki1912)
