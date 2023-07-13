@@ -1,8 +1,8 @@
-<div align="center"> <H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1><H3>✔ Tech Stacks ✔</H3>
+<div align="center"> <H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
 
-
+<H3>✔ Tech Stacks ✔</H3>
 
 <h4>Languages</h4>
 
