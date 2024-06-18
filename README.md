@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunki1912&count_bg=%239BF2F7&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8D&edge_flat=false"/></a><H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1><br><br>
+<div align="center"> <a href="https://hits.seeyoufarm.com"><!--img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunki1912&count_bg=%239BF2F7&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8D&edge_flat=false"/--></a><H1>🤷🏻‍♂️ My Profile 🤷🏻‍♂️</H1><br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912)](https://solved.ac/junki1912/)
 
@@ -16,7 +16,7 @@
 
 <!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) -->
 ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
+<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white) -->
 
 <h4>Databases</h4>
 
