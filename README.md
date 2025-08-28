@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="max-width: 500px; margin: auto;">
 
 # 🤷🏻‍♂️ Welcome to My GitHub 🤷🏻‍♂️  
 
@@ -24,18 +24,23 @@ I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding
 ## ✔ Tech Stacks ✔  
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&logoColor=white)
 
 ### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=Oracle&logoColor=white)  
-![H2](https://img.shields.io/badge/H2Database-2.1.214-yellow)  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=Oracle&logoColor=white)
+![H2](https://img.shields.io/badge/H2Database-2.1.214-yellow)
 
 ### ⚡ Frameworks & Tools  
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)  
-![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?logo=vuedotjs&logoColor=4FC08D)  
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?logo=vuedotjs&logoColor=4FC08D)
+![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea)
 
 ---
 
