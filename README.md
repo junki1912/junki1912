@@ -11,7 +11,7 @@
 <table align="center">
 <tr><td>
 
-I'm a developer who loves solving problems.** 🚀  
+**I'm a developer who loves solving problems.** 🚀  
 I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding) to make the world a better place.  
 
 ## 🌱 About Me  
