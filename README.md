@@ -59,6 +59,7 @@ I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding
 ## ⏳ Life Motto  
 ⭐️ 무슨 일에서든지 오늘의 나는 어제의 나보다 더 나아져야만 한다. ⭐️  
 ⭐️ 말 한마디가 천냥 빚을 갚지만, 때론 말 한마디 않는 것이 만냥을 번다. ⭐️  
+
 ---
 
 ## 🙆‍♂️ Hobby  
