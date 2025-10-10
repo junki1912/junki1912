@@ -39,10 +39,11 @@ I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=Oracle&logoColor=white)
 ![H2](https://img.shields.io/badge/H2Database-2.1.214-yellow)
 
-###⚡Tools  
+### ⚡ Tools
 ![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea)
+
 ---
 
 
