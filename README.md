@@ -59,15 +59,6 @@ I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding
 ⭐️ 무슨 일에서든지 오늘의 나는 어제의 나보다 더 나아져야만 한다. ⭐️  
 ⭐️ 말 한마디가 천냥 빚을 갚지만, 때론 말 한마디 않는 것이 만냥을 번다. ⭐️  
 
----
-
-## 🙆‍♂️ Hobby  
-👟 요즘은 **러닝**에 빠져 하루 5km 이상 달리고 있어요! → 마감
-🌃 특히 **[북항친수공원](https://www.bisco.or.kr/northportwaterfrontpark/sub/sub01/sub01_3/)** (부산역 근처) 추천드립니다.  
-야경 && 러닝 || 산책 👉 완벽 조합! 👍👍  
-
-💪💪💪 주 4회정도 하루에 한시간씩 헬스 중입니다.
-
 </td></tr>
 </table>
 
