@@ -47,7 +47,7 @@ I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding
 ---
 
 
-## 📊 Stats  
+## 📊 Stats [故 Baekjoon Online Judge]
 <p align="center">
   <a href="[solved.ac](https://solved.ac/profile/junki1912)">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912" height="160px"/> 
