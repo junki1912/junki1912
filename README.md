@@ -52,7 +52,6 @@ I love learning new technologies and leveraging **Data & AI** (I ❤ vibe coding
   <a href="[solved.ac](https://solved.ac/profile/junki1912)">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junki1912" height="160px"/> 
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=junki1912&show_icons=true&theme=tokyonight" height="160px"/>
 </p>
 
 ## ⏳ Life Motto  
